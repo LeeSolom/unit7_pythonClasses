@@ -1,0 +1,17 @@
+# How would you print out the names of the pets
+
+my_pet_1='pet'
+my_pet_1_type = 'cat'
+my_pet_1_noise = 'meow'
+my_pet_1_full_name = 'Saint'
+
+my_pet_2='pet'
+my_pet_2_type = 'cat'
+my_pet_2_noise = 'meow'
+my_pet_2_full_name = 'Key'
+
+my_pets = [my_pet_1, my_pet_2]
+ for pet in my_pets:
+
+
+# Print full name of each pet
